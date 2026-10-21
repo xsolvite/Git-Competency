@@ -1,0 +1,6 @@
+claim_id,supplement,claim,source_title,source_url,evidence_grade
+C001,Demo Supplement A,Example claim A,Mock Study A,https://example.org/a,preliminary
+C002,Demo Supplement B,Example claim B,Mock Study B,https://example.org/b,moderate
+C003,Demo Supplement A,Example claim C,,https://example.org/c,preliminary
+C004,Demo Supplement C,Example claim D,Mock Study D,invalid-url,strong
+C002,Demo Supplement D,Example claim E,Mock Study E,https://example.org/e,unknown
